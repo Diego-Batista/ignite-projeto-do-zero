@@ -37,6 +37,7 @@
     "prettier/prettier": "error",
     "react/react-in-jsx-scope": "off",
     "react/prop-types": "off",
+    "useTabs": false,
     "jsx-a11y/anchor-is-valid": [
       "error",
       {
